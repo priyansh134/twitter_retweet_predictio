@@ -9,7 +9,6 @@ Twitter Retweet Prediction is a project that predicts whether a given tweet will
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
-- [Dataset](#dataset)
 - [Contact](#contact)
 - [About](#about)
 
