@@ -38,7 +38,8 @@ The project supports multiple machine learning and deep learning models for twee
 
 For questions, issues, or collaboration opportunities, please contact us:
 
-- Email: 
+- Email: priyanshumangal43@gmail.com
+- satvikbuttan@gmail.com
 
 ## About
 
